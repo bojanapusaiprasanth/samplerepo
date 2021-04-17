@@ -1,5 +1,3 @@
-this is to learn vscode
-
-commit 
+this is to learn vs
 
 
