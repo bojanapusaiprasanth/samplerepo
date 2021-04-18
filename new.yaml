@@ -5,3 +5,9 @@
         yum: install few things
       - name: again few things
         service: few services
+
+
+
+      - name:  i dont know
+        yum: yum install myself
+        
